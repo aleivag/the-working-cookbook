@@ -1,0 +1,16 @@
+[site]
+title = "The Working Cookbook"
+description = "Recipes tested, adjusted, and kept."
+output = "build"
+base_url = ""
+unit_system = "international"
+
+[author]
+name = ""
+email = ""
+website = ""
+instagram = "@a.la.csm"
+
+[sync]
+# Add a Google OAuth web client ID to enable optional Drive backup.
+google_client_id = ""
