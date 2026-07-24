@@ -1,10 +1,15 @@
 ---
 title: Orange, Cranberry, and Mint Pavlova
 yield: 1 pavlova
+headnote: A crisp, marshmallow-centered pavlova finished with bright fruit and fresh mint.
 source: How to Make an Orange, Cranberry, and Mint Pavlova
 see_also: [sous-vide-creme-brulee]
 tags: [dessert, pavlova, meringue, orange, cranberry, mint]
 ---
+
+This pavlova leaves several egg yolks behind. Use them in
+[sous vide crème brûlée](recipe:sous-vide-creme-brulee), or browse
+[other recipes that use egg yolks](search:egg-yolks).
 
 == step heat whites ==
 Combine @egg whites{3/4%cup}(from 5 to 6 eggs)[scale=true, step=0.25] and

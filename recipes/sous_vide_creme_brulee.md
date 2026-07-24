@@ -1,8 +1,9 @@
 ---
 title: Sous Vide Crème Brûlée
 yield: 6 servings
+headnote: Silky individual custards with a brittle caramel top, cooked evenly sous vide.
 source: Adapted from Julia Child and How to Make Sous Vide Crème Brûlée
-tags: [dessert, custard, sous-vide, make-ahead, french]
+tags: [dessert, custard, sous-vide, make-ahead, french, egg-yolks]
 ---
 
 == step prepare ==
