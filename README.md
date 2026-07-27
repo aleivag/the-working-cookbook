@@ -11,3 +11,14 @@ julia serve .
 ```
 
 The static site is deployed to GitHub Pages whenever `main` changes.
+
+## Feasts
+
+Authored menus live in `feasts/`. Build them with:
+
+```bash
+julia feast build .
+```
+
+Each feast produces a guest menu, kitchen booklet, and shopping list alongside
+its web page.
