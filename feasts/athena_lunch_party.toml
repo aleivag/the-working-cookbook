@@ -31,7 +31,16 @@ name = "Pommes Purée"
 
 [[dishes]]
 course = "Accompaniments"
+name = "roast corn"
+
+[[dishes]]
+course = "Accompaniments"
 name = "Salad"
+
+[[dishes]]
+course = "Accompaniments"
+name = "Breads"
+
 
 [[dishes]]
 course = "Dessert"
@@ -40,3 +49,8 @@ recipe = "sous-vide-creme-brulee"
 [[dishes]]
 course = "Dessert"
 name = "Ice Cream"
+
+
+[[dishes]]
+course = "Dessert"
+recipe = "fruit-and-chocolate"
