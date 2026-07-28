@@ -1,16 +1,5 @@
 title = "Athena Lunch Party"
 
-[[dishes]]
-course = "First Course"
-recipe = "salmon-ceviche-artichoke-leche-de-tigre"
-
-[[dishes]]
-course = "First Course"
-name = "Shrimp Cocktail"
-
-[[dishes]]
-course = "Second Course"
-name = "Soft-Poached Egg with Yogurt and Sun-Roasted Tomato Pesto"
 
 [[dishes]]
 course = "Main Course"
@@ -19,6 +8,22 @@ recipe = "sous-vide-prime-rib"
 [[dishes]]
 course = "Main Course"
 name = "Clambake"
+
+[[dishes]]
+course = "Main Course"
+name = "poultry (roast chicken or duck confit)"
+
+[[dishes]]
+course = "Side Course"
+recipe = "salmon-ceviche-artichoke-leche-de-tigre"
+
+[[dishes]]
+course = "Side Course"
+name = "Shrimp Cocktail"
+
+[[dishes]]
+course = "Side Course"
+name = "Soft-Poached Egg with Yogurt and Sun-Roasted Tomato Pesto"
 
 [[dishes]]
 course = "Accompaniments"
