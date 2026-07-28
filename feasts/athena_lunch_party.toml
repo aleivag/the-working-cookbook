@@ -2,7 +2,7 @@ title = "Athena Lunch Party"
 
 [[dishes]]
 course = "First Course"
-name = "Salmon Ceviche with Artichoke Leche de Tigre"
+recipe = "salmon-ceviche-artichoke-leche-de-tigre"
 
 [[dishes]]
 course = "First Course"
