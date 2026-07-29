@@ -7,7 +7,7 @@ recipe = "sous-vide-prime-rib"
 
 [[dishes]]
 course = "Main Course"
-name = "Clambake"
+recipe = "indoor-clambake"
 
 [[dishes]]
 course = "Main Course"
