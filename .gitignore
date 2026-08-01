@@ -1,4 +1,5 @@
 build/
+tmp/
 .julia-data/
 .DS_Store
 __pycache__/

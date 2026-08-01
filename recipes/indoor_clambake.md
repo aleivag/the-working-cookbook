@@ -20,10 +20,11 @@ Place @small littleneck clams{2%lb}(scrubbed) and
 the ends together and tie them securely to make a bundle. Set aside.
 
 == step layer ==
-In a heavy-bottomed #12-quart stockpot{}, layer @kielbasa sausage{1%lb}(cut into
-1/3-inch-thick rounds), the shellfish bundle, @small new potatoes{1%lb}(unpeeled
-and cut into 1-inch pieces), and @corn{4%ears}(silk and all but the last layer of
-husk removed). Place @live lobsters{2}[weight_each=1.5 lb, scale=true] on top.
+In a heavy-bottomed #12-quart stockpot{}, layer
+@kielbasa sausage{1%lb}(cut into 1/3-inch-thick rounds), the shellfish bundle,
+@small new potatoes{1%lb}(unpeeled and cut into 1-inch pieces), and
+@corn{4%ears}(silk and all but the last layer of husk removed). Place
+@live lobsters{2}[weight_each=1.5 lb, scale=true] on top.
 
 == step steam ==
 Cover the pot and place it over high heat. Cook for ~steam{17-20%minutes}, until

@@ -9,13 +9,14 @@ tags: [dessert, custard, sous-vide, make-ahead, french, egg-yolks]
 == step prepare ==
 Preheat a #sous vide water bath{} to $temp{180%F}.
 
-Separate @egg yolks{5}[scale=true, step=1] from the whites. Save the egg whites for pavlova, or for
-about ten pisco sours.
+Separate @large eggs{5}[scale=true, step=1] into =>egg yolks{5} and
+=>egg whites{5}. Save the egg whites for pavlova, or for about ten pisco sours.
 
 == step custard ==
-Whisk the egg yolks with @vanilla extract{1%tsp}, @granulated sugar{1/3%cup},
+Whisk ^egg yolks{5} with @vanilla extract{1%tsp}, @granulated sugar{1/3%cup},
 and @salt{}(a pinch) until smooth. Add @heavy cream{2%cups} and whisk gently
-until completely combined, taking care not to create too much foam.
+until completely combined, taking care not to create too much foam. The mixture
+is now =>custard{}.
 
 For a condensed-milk experiment, replace 1/3 to 1/2 cup of the cream with the
 same amount of condensed milk. This gives 1 1/2 to 1 2/3 cups of heavy cream;
@@ -23,7 +24,7 @@ consider reducing the sugar after testing the sweeter version. Alternatively,
 keep the sugar unchanged and replace 1/2 to 1 cup of the cream with whole milk.
 
 == step fill ==
-Divide the custard among 6 heat-safe #lidded ramekins{} or small canning jars.
+Divide ^custard{} among 6 heat-safe #lidded ramekins{} or small canning jars.
 Seal tightly enough to keep water out, but do not overtighten canning-jar lids.
 
 == step cook ==

@@ -3,15 +3,18 @@ title = "Athena Lunch Party"
 
 [[dishes]]
 course = "Main Course"
+name = "Prime Rib Roast"
 recipe = "sous-vide-prime-rib"
 
 [[dishes]]
 course = "Main Course"
 recipe = "indoor-clambake"
+description = "A stockpot clambake with lobster, shellfish, sausage, potatoes, and corn."
 
 [[dishes]]
 course = "Main Course"
-name = "poultry (roast chicken or duck confit)"
+name = "Roast Chicken"
+description = "Oven roasted whole chicken with traditional latin spices"
 
 [[dishes]]
 course = "Side Course"
@@ -19,6 +22,7 @@ recipe = "salmon-ceviche-artichoke-leche-de-tigre"
 
 [[dishes]]
 course = "Side Course"
+recipe = "shrimp-cocktail"
 name = "Shrimp Cocktail"
 
 [[dishes]]
@@ -28,10 +32,8 @@ name = "Soft-Poached Egg with Yogurt and Sun-Roasted Tomato Pesto"
 [[dishes]]
 course = "Accompaniments"
 name = "Pommes Purée"
+description = "Potato, cream and buttter, nuff said"
 
-[[dishes]]
-course = "Accompaniments"
-name = "roast corn"
 
 [[dishes]]
 course = "Accompaniments"
