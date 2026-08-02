@@ -15,7 +15,8 @@ description = "A stockpot clambake with lobster, shellfish, sausage, potatoes, a
 [[dishes]]
 course = "Main Course"
 name = "Roast Chicken"
-description = "Oven roasted whole chicken with traditional latin spices"
+description = "Oven-roasted whole chicken with traditional Latin spices."
+recipe = "peruvian-roast-chicken"
 
 [[dishes]]
 course = "Side Course"
