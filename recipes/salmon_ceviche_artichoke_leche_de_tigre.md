@@ -1,7 +1,7 @@
 ---
 title: Salmon Ceviche with Artichoke Leche de Tigre
 yield: 1 batch
-headnote: A composed salmon ceviche finished at serving time with a reusable artichoke leche de tigre.
+headnote: A salmon ceviche finished at serving time with an artichoke leche de tigre.
 tags: [ceviche, salmon, peruvian, seafood, draft]
 ---
 

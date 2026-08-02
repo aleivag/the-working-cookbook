@@ -5,6 +5,7 @@ title = "Athena Lunch Party"
 course = "Main Course"
 name = "Prime Rib Roast"
 recipe = "sous-vide-prime-rib"
+description = "No-bullshit prime rib cooked medium-rare from edge to edge."
 
 [[dishes]]
 course = "Main Course"
@@ -25,6 +26,7 @@ course = "Side Course"
 recipe = "shrimp-cocktail"
 name = "Shrimp Cocktail"
 
+
 [[dishes]]
 course = "Side Course"
 name = "Soft-Poached Egg with Yogurt and Sun-Roasted Tomato Pesto"
@@ -32,16 +34,18 @@ name = "Soft-Poached Egg with Yogurt and Sun-Roasted Tomato Pesto"
 [[dishes]]
 course = "Accompaniments"
 name = "Pommes Purée"
-description = "Potato, cream and buttter, nuff said"
+description = "Potato, cream, and butter—nuff said."
 
 
 [[dishes]]
 course = "Accompaniments"
 name = "Salad"
+description = "Whatever is in season and sold at the farmers' market."
 
 [[dishes]]
 course = "Accompaniments"
 name = "Breads"
+description = "Rosalind sourdough loaf with French butter."
 
 
 [[dishes]]
@@ -51,8 +55,10 @@ recipe = "sous-vide-creme-brulee"
 [[dishes]]
 course = "Dessert"
 name = "Ice Cream"
+description = "Alec's vanilla and brown-butter peach-cobbler ice cream."
 
 
 [[dishes]]
 course = "Dessert"
 recipe = "fruit-and-chocolate"
+description = "... and love"

@@ -16,7 +16,7 @@ Prepare @recipe{bechamel-sauce}{1%cup} to produce =>Béchamel sauce{1%cup}.
 While ^Béchamel sauce{1%cup} is still hot, quickly whisk in
 @Gruyère cheese{4%oz}(shredded; about 1 cup),
 @Parmesan cheese{1/4%cup}(grated), @salt{1/2%tsp}, @black pepper{1/4%tsp}, and
-@ground nutmeg{1%pinch} until smooth to produce =>Mornay sauce{1 1/4%cups}.
+@ground nutmeg{1%pinch} until smooth, producing =>Mornay sauce{1 1/4%cups}.
 
 Use immediately, or keep warm and cover the surface to prevent a skin from
 forming.

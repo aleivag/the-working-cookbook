@@ -31,5 +31,5 @@ Remove the ribs from the oven, brush with @barbecue sauce{}, and return them
 to the oven at $temp{275%F} for ~second cook{2.5%hours}.
 
 == step rest ==
-Remove the ribs from the oven. They are ready, but need to rest.
+Remove the ribs from the oven. The ribs are cooked but need to rest.
 Brush with more @barbecue sauce{} and rest covered in foil for ~rest{30%minutes}.

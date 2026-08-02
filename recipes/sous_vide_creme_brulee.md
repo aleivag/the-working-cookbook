@@ -6,29 +6,36 @@ source: Adapted from Julia Child and How to Make Sous Vide Crème Brûlée
 tags: [dessert, custard, sous-vide, make-ahead, french, egg-yolks]
 ---
 
+Sous vide crème brûlée takes about the same amount of time as the traditional
+method and tastes very similar. Its advantages are:
+
+1. There is no risk of splashing water into the ramekins while removing them from
+   a traditional oven water bath.
+2. It is more forgiving if it cooks for an extra 30 minutes.
+3. It does not occupy the oven.
+4. In theory, it scales almost indefinitely; you need only a water bath large
+   enough for the jars and enough refrigerator space to chill them.
+
 == step prepare ==
 Preheat a #sous vide water bath{} to $temp{180%F}.
 
 Separate @large eggs{5}[scale=true, step=1] into =>egg yolks{5} and
-=>egg whites{5}. Save the egg whites for pavlova, or for about ten pisco sours.
+=>egg whites{5}. Save the egg whites for
+[pavlova](recipe:orange-cranberry-mint-pavlova), or for about ten pisco sours.
 
 == step custard ==
 Whisk ^egg yolks{5} with @vanilla extract{1%tsp}, @granulated sugar{1/3%cup},
 and @salt{}(a pinch) until smooth. Add @heavy cream{2%cups} and whisk gently
-until completely combined, taking care not to create too much foam. The mixture
-is now =>custard{}.
+until completely combined, taking care not to create too much foam.
 
-For a condensed-milk experiment, replace 1/3 to 1/2 cup of the cream with the
-same amount of condensed milk. This gives 1 1/2 to 1 2/3 cups of heavy cream;
-consider reducing the sugar after testing the sweeter version. Alternatively,
-keep the sugar unchanged and replace 1/2 to 1 cup of the cream with whole milk.
+Strain the mixture twice; it is now =>custard{}.
 
 == step fill ==
 Divide ^custard{} among 6 heat-safe #lidded ramekins{} or small canning jars.
 Seal tightly enough to keep water out, but do not overtighten canning-jar lids.
 
 == step cook ==
-Lower the sealed ramekins into the water bath and cook at $temp{180%F} for
+Lower the sealed ramekins into the water bath and cook at $temp{81%C} for
 ~custard{1-1.25%hours}.
 
 == step chill ==

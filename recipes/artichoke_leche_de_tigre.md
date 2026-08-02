@@ -6,12 +6,18 @@ family: leche-de-tigre
 tags: [leche-de-tigre, ceviche, sauce, peruvian, draft]
 ---
 
-This is the reusable sauce for the salmon ceviche. The ingredient list captures
-the intended structure; quantities should be filled in during recipe testing.
+This is the reusable sauce for ceviche. You can omit the fish stock to make a
+vegetarian sauce.
+
+The ingredient list captures the intended structure; quantities should be filled
+in during recipe testing.
 Browse [other leche de tigre recipes](search:leche-de-tigre) as they are added.
 
-== step artichoke base ==
+== step prepare artichokes [choice=artichoke, option=cooked] ==
 Cook @artichoke hearts{3} until tender, then cool completely.
+
+== step prepare artichokes [choice=artichoke, option=pickled, default=true] ==
+Drain @artichoke hearts{3} from a jar.
 
 == step blend ==
 Blend the artichokes with @lime juice{2}, @fish stock{}, @red onion{}, @celery{},
