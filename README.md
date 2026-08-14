@@ -3,6 +3,8 @@
 Personal recipes published with [Julia](https://github.com/aleivag/julia), a
 static cookbook generator and local-first cooking companion.
 
+[Browse the published cookbook on GitHub Pages.](https://aleivag.github.io/the-working-cookbook/)
+
 ## Local preview
 
 ```bash
