@@ -12,22 +12,21 @@ pizzas. It uses 65% hydration, though 70% also works well.
 Important: This recipe is intended for a pizza oven that can reach $temp{800%F}
 to $temp{900%F}, not a conventional home oven.
 
-== step measure water ==
-Measure @water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75] to produce
-=>measured water{}.
-
 == step prepare yeast [choice=yeast, option=instant, default=true] ==
-Stir @instant yeast{0.4%g}(about 1/8 teaspoon) into ^measured water{}. Use
-immediately to produce =>yeast water{}.
+Stir @instant yeast{0.4%g}(about 1/8 teaspoon) into
+@water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75]. Use immediately to
+produce =>yeast water{}.
 
 == step prepare yeast [choice=yeast, option=active-dry] ==
-Take about 30 g from ^measured water{} and warm it to approximately $temp{100%F}.
-Stir in @active dry yeast{0.5%g} and let it bloom for ~bloom{5-10%minutes}. Add
-the remaining measured water to produce =>yeast water{}.
+Measure @water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75]. Warm about
+30 g of it to approximately $temp{100%F}. Stir in @active dry yeast{0.5%g} and
+let it bloom for ~bloom{5-10%minutes}. Add the remaining water to produce
+=>yeast water{}.
 
 == step prepare yeast [choice=yeast, option=fresh] ==
-Crumble @fresh yeast{1.2%g} into ^measured water{} and stir until completely
-dissolved to produce =>yeast water{}.
+Crumble @fresh yeast{1.2%g} into
+@water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75] and stir until
+completely dissolved to produce =>yeast water{}.
 
 == step mix ==
 Combine ^yeast water{} with

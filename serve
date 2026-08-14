@@ -1,0 +1,7 @@
+#!/bin/sh
+set -eu
+
+project_dir=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+export PYTHONPATH="$project_dir/../julia/src${PYTHONPATH:+:$PYTHONPATH}"
+
+exec python3 -m julia_cookbook serve "$project_dir" --watch "$@"
