@@ -35,6 +35,7 @@ name = "Soft-Poached Egg with Yogurt and Sun-Roasted Tomato Pesto"
 [[dishes]]
 course = "Accompaniments"
 name = "Pommes Purée"
+recipe = "thomas-keller-pommes-puree"
 description = "Potato, cream, and butter—nuff said."
 
 
