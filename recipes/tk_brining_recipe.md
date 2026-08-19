@@ -5,7 +5,7 @@ scale: yield
 scale_step: 0.5
 headnote: An aromatic honey-and-herb poultry brine with lemon, garlic, and peppercorns.
 family: poultry-brine
-tags: [chicken, brine, reusable]
+tags: [chicken, brine, reusable, thomas-keller]
 ---
 
 == step make brine ==

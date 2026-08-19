@@ -1,6 +1,6 @@
 ---
-title: Tomas Keller Online Resources
-headnote: a list of tomas keller resources online.
+title: Thomas Keller Online Resources
+headnote: A list of Thomas Keller resources online.
 ---
 
 
@@ -9,6 +9,5 @@ headnote: a list of tomas keller resources online.
 !youtube{vzhsKgHrn94}
 
 !youtube{IUTlWmJXivc}[title=Thomas Keller Teaches Cooking Techniques III]
-
 
 
