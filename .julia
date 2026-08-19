@@ -4,6 +4,7 @@ description = "Recipes tested, adjusted, and kept."
 output = "build"
 base_url = ""
 unit_system = "international"
+theme = "auto"
 
 [author]
 name = ""

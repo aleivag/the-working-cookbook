@@ -1,16 +1,13 @@
 ---
-title: Fluffy Jiggly Japanese Pancakes
+title: Jiggly Soufflé
 yield: 1 serving
 scale: yield
 headnote: Delicate, egg-forward soufflé pancakes with a soft, jiggly center.
 source: Indy Assa
 source_url: https://indyassa.com/fluffy-jiggly-japanese-pancakes/
-family: japanese-fluffy-pancakes
-tags: [breakfast, pancakes, japanese, souffle, meringue, sweet]
-see_also: [japanese-fluffy-pancakes]
 ---
 
-This version uses very little flour and relies primarily on a stiff meringue for
+This style uses very little flour and relies primarily on a stiff meringue for
 its height. Serve the pancakes immediately because they gradually deflate as
 they cool.
 
