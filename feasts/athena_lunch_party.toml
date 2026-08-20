@@ -59,8 +59,47 @@ course = "Dessert"
 name = "Ice Cream"
 description = "Alec's vanilla and brown-butter peach-cobbler ice cream."
 
+[[dishes]]
+course = "Dessert"
+name = "Silvanas"
+description = "From 'House of Silvanas' in Daly City"
 
 [[dishes]]
 course = "Dessert"
 recipe = "fruit-and-chocolate"
 description = "... and love"
+
+
+[[dishes]]
+course = "Alcoholic Menu"
+name = "Champagne"
+description = "From France, as it should be."
+
+[[dishes]]
+course = "Alcoholic Menu"
+name = "Wine and Beer"
+description = "From Costco, as it should be."
+
+
+[[dishes]]
+course = "Alcoholic Menu"
+name = "Mezcal Negroni"
+description = "Mucho fancy."
+
+[[dishes]]
+course = "Alcoholic Menu"
+name = "Frozen Aperol Spritz"
+
+[[dishes]]
+course = "Non-Alcoholic Menu"
+name = "Sparkling Water"
+description = "Topo Chico and S.Pellegrino."
+
+[[dishes]]
+course = "Non-Alcoholic Menu"
+name = "Soda"
+description = "An assortment of sodas."
+
+[[dishes]]
+course = "Non-Alcoholic Menu"
+name = "Coffee & Tea"
