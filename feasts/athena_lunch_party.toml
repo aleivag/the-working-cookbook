@@ -84,6 +84,7 @@ description = "From Costco, as it should be."
 [[dishes]]
 course = "Alcoholic Menu"
 name = "Mezcal Negroni"
+recipe = "mezcal-negroni"
 description = "Mucho fancy."
 
 [[dishes]]
