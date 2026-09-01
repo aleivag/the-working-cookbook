@@ -1,0 +1,73 @@
+title = "Systemd Planning Dinner"
+
+[[dishes]]
+course = "To Start"
+name = "Bread, Butter, Cheese, Jam, and Foie Gras"
+description = "Provided by friends."
+
+[[dishes]]
+course = "To Start"
+name = "Chicken Consommé with Rice Vermicelli"
+description = "Provided by friends."
+
+[[dishes]]
+course = "To Start"
+name = "Steak Tartare"
+description = "Provided by friends."
+
+[[dishes]]
+course = "Main Course"
+name = "Japanese Wagyu"
+description = "With potatoes that may or may not come from a bag."
+
+[[dishes]]
+course = "Main Course"
+name = "Duck Confit"
+recipe = "sous-vide-duck-confit"
+description = "Served with Rotkohl and Apfelmus."
+
+[[dishes]]
+course = "Main Course"
+name = "Chilean Sea Bass with Artichoke Beurre Monté"
+recipe = "sous-vide-chilean-sea-bass"
+
+
+
+[[dishes]]
+course = "Sides"
+name = "Salad"
+description = "Whatever is in season."
+
+[[dishes]]
+course = "Dessert"
+name = "Ice Cream"
+
+[[dishes]]
+course = "Dessert"
+name = "Fresh Fruit"
+
+[[dishes]]
+course = "Dessert"
+name = "Pie"
+
+[[dishes]]
+course = "Alcoholic Menu"
+name = "Champagne"
+
+[[dishes]]
+course = "Alcoholic Menu"
+name = "Wine"
+
+
+[[dishes]]
+course = "Alcoholic Menu"
+name = "Beer"
+
+[[dishes]]
+course = "Non-Alcoholic Menu"
+name = "Water"
+description = "Still and sparkling water."
+
+[[dishes]]
+course = "Non-Alcoholic Menu"
+name = "Soda"
