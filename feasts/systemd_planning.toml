@@ -2,7 +2,12 @@ title = "Systemd Planning Dinner"
 
 [[dishes]]
 course = "To Start"
-name = "Bread, Butter, Cheese, Jam, and Foie Gras"
+name = "Chilean Marraqueta"
+recipe = "chilean-marraqueta"
+
+[[dishes]]
+course = "To Start"
+name = "Butter, Cheese, Jam, Charcuterie, and Foie Gras"
 description = "Provided by friends."
 
 [[dishes]]
@@ -14,6 +19,10 @@ description = "Provided by friends."
 course = "To Start"
 name = "Steak Tartare"
 description = "Provided by friends."
+
+[[dishes]]
+course = "To Start"
+name = "Hamachi Crudo"
 
 [[dishes]]
 course = "Main Course"
