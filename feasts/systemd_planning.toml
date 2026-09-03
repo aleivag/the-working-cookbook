@@ -1,9 +1,5 @@
 title = "Systemd Planning Dinner"
 
-[[dishes]]
-course = "To Start"
-name = "Chilean Marraqueta"
-recipe = "chilean-marraqueta"
 
 [[dishes]]
 course = "To Start"
@@ -15,19 +11,8 @@ course = "To Start"
 name = "Chicken Consommé with Rice Vermicelli"
 description = "Provided by friends."
 
-[[dishes]]
-course = "To Start"
-name = "Steak Tartare"
-description = "Provided by friends."
 
-[[dishes]]
-course = "To Start"
-name = "Hamachi Crudo"
 
-[[dishes]]
-course = "Main Course"
-name = "Japanese Wagyu"
-description = "With potatoes that may or may not come from a bag."
 
 [[dishes]]
 course = "Main Course"
