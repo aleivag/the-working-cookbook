@@ -13,23 +13,25 @@ Important: This recipe is intended for a pizza oven that can reach $temp{800%F}
 to $temp{900%F}, not a conventional home oven.
 
 == step prepare yeast [choice=yeast, option=instant, default=true] ==
-Stir @instant yeast{0.4%g}(about 1/8 teaspoon) into
-@water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75]. Use immediately to
-produce =>yeast water{}.
+Measure @water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75]. Set aside
+all but 30 g to produce =>remaining water{}. Stir
+@instant yeast{0.4%g}(about 1/8 teaspoon) into the 30 g portion and use it
+immediately to produce =>prepared yeast{}.
 
 == step prepare yeast [choice=yeast, option=active-dry] ==
 Measure @water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75]. Warm about
-30 g of it to approximately $temp{100%F}. Stir in @active dry yeast{0.5%g} and
-let it bloom for ~bloom{5-10%minutes}. Add the remaining water to produce
-=>yeast water{}.
+30 g of it to approximately $temp{105%F}, and set aside the rest to produce
+=>remaining water{}. Stir @active dry yeast{0.5%g} into the warm portion and let
+it rehydrate for ~rehydrate{10%minutes} to produce =>prepared yeast{}.
 
 == step prepare yeast [choice=yeast, option=fresh] ==
-Crumble @fresh yeast{1.2%g} into
-@water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75] and stir until
-completely dissolved to produce =>yeast water{}.
+Measure @water{65%bakers}[ratio_of=tipo 00 flour, options=65|70|75]. Set aside
+all but 30 g to produce =>remaining water{}. Crumble @fresh yeast{1.2%g} into
+the 30 g portion and stir until completely dissolved to produce
+=>prepared yeast{}.
 
 == step mix ==
-Combine ^yeast water{} with
+Combine ^prepared yeast{} and ^remaining water{} with
 @tipo 00 flour{600%g}[base=true, scale=true, step=50]. Mix until no dry flour
 remains, then rest for ~autolyse{20%minutes} to produce =>rough dough{1%batch}.
 
