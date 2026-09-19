@@ -2,6 +2,7 @@
 title: Artichoke Beurre Monté
 yield: 1 batch
 headnote: A warm, buttery artichoke sauce brightened with lime and white pepper.
+main_ingredient: artichoke
 tags: [artichoke, sauce, butter, french]
 ---
 

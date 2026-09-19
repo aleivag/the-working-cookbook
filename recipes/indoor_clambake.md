@@ -3,6 +3,7 @@ title: Indoor Clambake
 yield: 4-6 servings
 scale: yield
 headnote: A stockpot clambake with lobster, shellfish, kielbasa, potatoes, and corn, layered so everything finishes cooking together.
+main_ingredient: [clams, mussels, lobster]
 tags: [seafood, clambake, lobster, shellfish, one-pot]
 ---
 

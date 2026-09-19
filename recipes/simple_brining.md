@@ -5,6 +5,7 @@ scale: yield
 scale_step: 0.5
 headnote: A versatile 5% salt brine for poultry and other meats.
 family: poultry-brine
+main_ingredient: salt
 tags: [brine, reusable, simple]
 ---
 

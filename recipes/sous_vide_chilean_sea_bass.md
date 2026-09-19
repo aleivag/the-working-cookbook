@@ -3,6 +3,7 @@ title: Sous Vide Chilean Sea Bass with Artichoke Beurre Monté
 yield: 1 plated fillet
 scale: yield
 headnote: Silky sous vide Chilean sea bass, finished with a hard sear and plated over warm artichoke beurre monté.
+main_ingredient: sea bass
 tags: [sea-bass, fish, sous-vide, artichoke, beurre-monte]
 ---
 

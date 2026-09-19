@@ -3,6 +3,7 @@ title: Mezcal Negroni
 yield: 1 cocktail
 scale: yield
 headnote: A smoky, bittersweet Negroni rounded with a bright house pineapple cordial.
+main_ingredient: mezcal
 tags: [cocktail, mezcal, negroni, pineapple, make-ahead]
 ---
 

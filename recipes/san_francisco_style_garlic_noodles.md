@@ -5,6 +5,7 @@ scale: yield
 headnote: Chewy noodles glossed with garlic-infused butter, savory Maggi seasoning, Parmesan, and scallions.
 source: America's Test Kitchen
 source_url: https://www.americastestkitchen.com/recipes/16734-san-francisco-style-garlic-noodles
+main_ingredient: noodles
 tags: [noodles, garlic, san-francisco, vietnamese-american, vegetarian, side-dish]
 ---
 

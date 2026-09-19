@@ -3,6 +3,7 @@ title: Sous Vide Duck Confit
 yield: 1 batch
 source: Inspired by America's Test Kitchen's Turkey Confit with Citrus Mustard Sauce and Serious Eats' Sous Vide Duck Confit
 source_url: https://www.instagram.com/p/C3X8bHVrv9o/?img_index=7
+main_ingredient: duck
 tags: [duck, confit, sous-vide, make-ahead]
 ---
 

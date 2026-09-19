@@ -4,6 +4,7 @@ yield: 6 to 8 servings
 headnote: A deeply browned prime rib with an evenly rosy, buttery interior.
 source: America's Test Kitchen How to Make The Ultimate Sous Vide Prime Rib with Mint Persillade
 source_url: https://www.youtube.com/watch?v=LysF3BGtXt4
+main_ingredient: beef
 tags: [prime-rib, sous-vide, beef, holiday]
 ---
 

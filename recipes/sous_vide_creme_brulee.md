@@ -4,6 +4,7 @@ yield: 6 servings
 headnote: Silky individual custards with a brittle caramel top, cooked evenly sous vide.
 source: Adapted from Julia Child and How to Make Sous Vide Crème Brûlée
 family: creme-brulee
+main_ingredient: eggs
 tags: [dessert, custard, sous-vide, make-ahead, french, egg-yolks]
 see_also: [traditional-creme-brulee]
 ---

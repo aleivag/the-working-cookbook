@@ -4,6 +4,7 @@ yield: 1 pavlova
 headnote: A crisp, marshmallow-centered pavlova finished with bright fruit and fresh mint.
 source: How to Make an Orange, Cranberry, and Mint Pavlova
 see_also: [sous-vide-creme-brulee]
+main_ingredient: egg whites
 tags: [dessert, pavlova, meringue, orange, cranberry, mint]
 ---
 

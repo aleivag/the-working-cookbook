@@ -2,6 +2,7 @@
 title: Simple Mapo Tofu
 yield: 4 servings
 scale: yield
+main_ingredient: tofu
 tags: [tofu, sichuan, chinese, weeknight, vegetarian-option]
 ---
 

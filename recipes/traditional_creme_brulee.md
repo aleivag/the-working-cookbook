@@ -3,6 +3,7 @@ title: Traditional Crème Brûlée
 yield: 6 servings
 headnote: Silky vanilla custards baked gently in a water bath and finished with a brittle caramel crust.
 family: creme-brulee
+main_ingredient: eggs
 tags: [dessert, custard, baked, make-ahead, french, egg-yolks]
 see_also: [sous-vide-creme-brulee]
 ---

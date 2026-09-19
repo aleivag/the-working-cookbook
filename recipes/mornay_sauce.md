@@ -6,6 +6,7 @@ headnote: Béchamel enriched with Gruyère and Parmesan for gratins, vegetables,
 source: America's Test Kitchen
 source_url: https://www.americastestkitchen.com/recipes/11134-croque-monsieur
 family: mother-sauce
+main_ingredient: cheese
 tags: [sauce, cheese, french, mother-sauce, reusable]
 ---
 

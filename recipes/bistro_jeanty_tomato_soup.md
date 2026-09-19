@@ -4,6 +4,7 @@ yield: 6 servings
 scale: yield
 headnote: A rich, creamy tomato soup baked beneath a crisp, golden puff-pastry lid.
 source: Bistro Jeanty recipe card
+main_ingredient: tomato
 tags: [soup, tomato, french, puff-pastry, bistro-jeanty]
 ---
 

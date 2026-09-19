@@ -2,6 +2,7 @@
 title: Japanese Fluffy Pancakes
 headnote: Choose between tender buttermilk pancakes and an especially delicate, egg-forward soufflé style.
 family: japanese-fluffy-pancakes
+main_ingredient: eggs
 tags: [breakfast, pancakes, japanese, souffle, meringue, sweet]
 ---
 

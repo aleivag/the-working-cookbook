@@ -5,6 +5,7 @@ scale: yield
 headnote: Crisp, airy Chilean rolls shaped into their characteristic four connected lobes and baked with steam.
 source: Adapted from Mi Diario de Cocina — Marraqueta or Whipped Bread
 source_url: https://www.midiariodecocina.com/en/marraqueta-or-whipped-bread/
+main_ingredient: flour
 tags: [bread, chilean, marraqueta, crusty-bread, yeast]
 ---
 

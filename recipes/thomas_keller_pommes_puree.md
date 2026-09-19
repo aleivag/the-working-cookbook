@@ -6,6 +6,7 @@ headnote: Exceptionally smooth potatoes enriched gradually with hot cream, cold 
 source: MasterClass — How to Make Puréed and Mashed Potatoes With Thomas Keller
 source_url: https://www.masterclass.com/articles/how-to-make-pureed-and-mashed-potatoes-with-thomas-keller
 family: potato-puree
+main_ingredient: potatoes
 tags: [potatoes, side-dish, french, thomas-keller, make-ahead]
 ---
 

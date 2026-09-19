@@ -1,6 +1,7 @@
 ---
 title: Indoor Smoke Barbecue Ribs
 yield: 2 racks
+main_ingredient: pork ribs
 tags: [ribs, barbecue, oven, indoor-smoke]
 ---
 

@@ -5,6 +5,7 @@ scale: yield
 headnote: A classic French ham sandwich with crisp buttered bread, Gruyère, Parmesan, and a rich Mornay sauce.
 source: America's Test Kitchen
 source_url: https://www.americastestkitchen.com/recipes/11134-croque-monsieur
+main_ingredient: ham
 tags: [sandwich, ham, cheese, french, broiler]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Shrimp Cocktail
+main_ingredient: shrimp
 tags: []
 headnote: Tender shrimp and creamy avocado in a bright, chilled lime-and-tomato broth.
 ---

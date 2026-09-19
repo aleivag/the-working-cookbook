@@ -4,6 +4,7 @@ yield: 1 batch
 scale: yield
 headnote: A bright, concentrated cordial made from clarified pineapple juice, citric acid, and sugar.
 family: cocktail-cordial
+main_ingredient: pineapple
 tags: [pineapple, cordial, cocktail, non-alcoholic, make-ahead, reusable]
 ---
 

@@ -3,6 +3,7 @@ title: Artichoke Leche de Tigre
 yield: 1 batch
 headnote: A draft artichoke-based leche de tigre; exact quantities still need to be recorded during testing.
 family: leche-de-tigre
+main_ingredient: artichoke
 tags: [leche-de-tigre, ceviche, sauce, peruvian, draft]
 ---
 

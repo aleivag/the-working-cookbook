@@ -4,6 +4,7 @@ yield: 1 cup
 scale: yield
 headnote: A smooth white sauce of butter, flour, and milk that serves as the base for Mornay and other sauces.
 family: mother-sauce
+main_ingredient: milk
 tags: [sauce, french, mother-sauce, reusable]
 ---
 

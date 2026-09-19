@@ -3,6 +3,7 @@ title: Neapolitan Pizza Dough
 yield: 4 dough balls [each=~250 g]
 scale: yield
 headnote: A supple 65%-hydration dough for blistered Neapolitan-style pizza.
+main_ingredient: flour
 tags: [pizza, dough, neapolitan, fermented]
 ---
 

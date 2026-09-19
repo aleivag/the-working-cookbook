@@ -3,6 +3,7 @@ title: Peruvian-Style Roast Chicken
 yield: 4 servings
 scale: yield
 headnote: A golden Peruvian roast chicken, brined overnight and seasoned with stout, mustard, herbs, and spices.
+main_ingredient: chicken
 tags: [chicken, peruvian, roast, rotisserie, make-ahead]
 ---
 
